@@ -20,6 +20,7 @@ You would use a textfile.
 
 > Describe one difference between SQL and other programming languages.
 - the = sign is used for 'equality'.
+- SQL is a declarative language vs. most programming languages which are procedural.
 
 > In your own words, explain how the pieces of a database system fit together at a high level.
 - A database consists of tables, which contain records on one topic. Columns provide the headers for those records.
